@@ -13,9 +13,12 @@
       <dd>Introduction, Why Sql and tools.</dd>
     <dt>Basic of SQL</dt>
       <dd>Programming Logic, Math operators, Basic Syntax, Data Types and Virtual Environment</dd>
+      <dd> -> DML, DDL, DDL, DCL, DTL...</dd>
     <dt>SQLite Fundaments</dt>
       <dd>First Database, Data Table, Basic Queries.</dd>
+      <dd> -> Reserved Words 1, Select, Where, Order By and Table Instructions...</dd>
     <dt>SQL Server Fundaments</dt>
       <dd>Table and Columns Manipulation, Improving queries and Data Filtering.</dd>
+      <dd> -> Reserved Words 2, Modify Table, Functions, Group By, SubQuery, Join and Data Restore...</dd>
   </dl>
 </ul>
