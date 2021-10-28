@@ -11,6 +11,8 @@
   <dl>
     <dt>Why Study SQL?</dt>
       <dd>Introduction, Why Sql and tools.</dd>
+    <dt>Introduction to Analytic Thinking</dt>
+      <dd>Bussiness and how i make this.</dd>
     <dt>Basic of SQL</dt>
       <dd>Programming Logic, Math operators, Basic Syntax, Data Types and Virtual Environment</dd>
       <dd> -> DML, DDL, DDL, DCL, DTL...</dd>
