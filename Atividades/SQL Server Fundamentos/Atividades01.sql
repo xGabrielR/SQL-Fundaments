@@ -4,8 +4,9 @@
 /*
     1. Crie um banco de dados chamado Mercado
 	2. Crie uma tabela chamada CategoriaFruta
-		-- As colunas devem ser as categorias de frutas abaixo.
-		-- Colunas: CategoriaFrutaId, Oleaginosas, Acidas, Doces e Monofagicas
+		-- Colunas: CategoriaFrutaId, NomeCategoria.
+			-- Dica para popular a tabela: 'Oleaginosas', 'Acidas', 'Doces', 'Monofagicas'
+
 
 	3. Crie uma tabela chamada Fruta
 		-- A categoria deve ter no minimo 40 registros.
