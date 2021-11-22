@@ -67,8 +67,19 @@
 	
         
     4. Atualize algum registro de veiculo atualizando sua Placa para "MNB-5050".
+    	UPDATE Carro
+	SET PLACA   = "MNB-5050"
+	WHERE PLACA = "ABC-0001"
+
     5. Atualize a cor do veículo com a placa "MNB-5050" para "Azul".
+	UPDATE Carro
+	SET Cor = "Azul"
+	WHERE Placa = "MNB-5050"
+
     6. Atualize a classificação do veiculo com a placa "MNB-5050" para o tipo "caminhao-trator"
+    	UPDATE Carro
+	SET Classificacao = "caminhao-trator"
+	WHERE Placa = "MNB-5050"
         
         -- Obrigado por realizar os exercicios, qualquer dívida basta consultar as respostas.
 */
