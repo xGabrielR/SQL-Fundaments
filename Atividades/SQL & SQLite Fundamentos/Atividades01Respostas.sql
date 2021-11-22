@@ -38,9 +38,33 @@
     
     3. Realize um Relatório respondendo as seguintes perguntas: 
         3.1. Qual é a primeira Classificação de veiculos que aparece com a cor Azul, em uma ordenação decresçente?
-        3.2. Qual é a primeiro Modelo que aparece com o Preço , em uma ordenação decresçente?
+		SELECT * FROM Carro
+		WHERE COR = 'Azul'
+		ORDER BY Classificacao
+		
+		A primeira classificação é Automovel seguido de Caminhao.
+		
+        3.2. Qual é a primeiro Modelo que aparece com o Preço maior que 10 Mil, em uma ordenação decresçente?
+		SELECT * FROM Carro
+		WHERE Preco > 10000
+		ORDER BY Modelo DESC
+		
+		O primeiro modelo que aparece nessa ordenação é o Uno 2019 com o preço de 29000, seguido pelo Scania R450  com o preço de 55000.
+	
         3.3. Qual é o total de carros que estão registradas na base de dados?
-        3.4. Qual é a placa dos automóveis dos seguintes Id (1, 3, 5) ?
+		SELECT COUNT(Placa) FROM Carro
+		
+		O total de veiculos registrados é Cinco contendo Automoveis e Caminhoes.
+	
+        3.4. Qual é a placa dos automóveis dos preços entre 10000 e 40000 ?
+		SELECT Placa FROM Carro
+		WHERE Preco BETWEEN 10000 and 40000
+		
+		As seguintes placas são:
+			ABC-0001
+			ABC-0002
+			ABC-0003
+	
         
     4. Atualize algum registro de veiculo atualizando sua Placa para "MNB-5050".
     5. Atualize a cor do veículo com a placa "MNB-5050" para "Azul".
