@@ -82,4 +82,7 @@
 	WHERE Placa = "MNB-5050"
         
         -- Obrigado por realizar os exercicios, qualquer dívida basta consultar as respostas.
+	-- Referencias:
+		https://www.ctbdigital.com.br/comentario/comentario96
+		https://www.transportabrasil.com.br/2019/09/os-10-caminhoes-pesados-mais-vendidos-do-brasil/
 */
