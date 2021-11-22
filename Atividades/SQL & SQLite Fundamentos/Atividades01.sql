@@ -18,7 +18,7 @@
         3.1. Qual é a primeira Classificação de veiculos que aparece com a cor Azul, em uma ordenação decresçente?
         3.2. Qual é a primeiro Modelo que aparece com o Preço , em uma ordenação decresçente?
         3.3. Qual é o total de carros que estão registradas na base de dados?
-        3.4. Qual é a placa dos automóveis dos seguintes Id (1, 3, 5) ?
+        3.4. Qual é a placa dos automóveis dos preços entre 10000 e 40000 ?
         
     4. Atualize algum registro de veiculo atualizando sua Placa para "MNB-5050".
     5. Atualize a cor do veículo com a placa "MNB-5050" para "Azul".
