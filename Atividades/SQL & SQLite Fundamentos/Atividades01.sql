@@ -10,12 +10,12 @@
         - Preco           Inteiro Não Nulo.
     2. Insira dados na tabela que você acabou de criar, use a internet para pegar as devidas informações.
         2.1. Requisitos: 
-            - Deve ter pelo menos dois veiculos com a cor igual a "Verde".
+            - Deve ter pelo menos dois veiculos com a cor igual a "Azul".
             - Deve ter preços coerentes para responder o exercicio 3.
             - Deve ter pelo menos 5 registros na base de dados.
     
     3. Realize um Relatório respondendo as seguintes perguntas: 
-        3.1. Qual é a primeira Classificação de veiculos que aparece com a cor verde, em uma ordenação decresçente?
+        3.1. Qual é a primeira Classificação de veiculos que aparece com a cor Azul, em uma ordenação decresçente?
         3.2. Qual é a primeiro Modelo que aparece com o Preço , em uma ordenação decresçente?
         3.3. Qual é o total de carros que estão registradas na base de dados?
         3.4. Qual é a placa dos automóveis dos seguintes Id (1, 3, 5) ?
